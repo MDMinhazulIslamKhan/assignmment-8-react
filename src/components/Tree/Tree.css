@@ -1,0 +1,27 @@
+.card-item {
+    border-radius: 20px;
+    padding: 10px;
+    background-color: rgb(170, 241, 241);
+    width: 220px;
+}
+
+.card-details {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-details button {
+    border: 2px solid rgb(81, 226, 166);
+    background-color: aquamarine;
+    border-radius: 5px;
+    padding: 5px;
+    width: 80px;
+}
+
+.card-item img {
+    width: 220px;
+    height: 220px;
+    border-radius: 20px;
+
+}

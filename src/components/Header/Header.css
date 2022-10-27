@@ -1,0 +1,10 @@
+.header {
+    text-align: center;
+}
+
+.headerCom {
+    text-shadow: 3px 3px 3px rgb(185, 184, 184);
+    font-size: 2rem;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
